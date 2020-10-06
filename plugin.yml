@@ -1,0 +1,44 @@
+name: TagsUI
+main: Ignacio\TagsUI\Main
+author: Ignacio
+version: 3.0.7
+api: 3.6.0
+
+commands:
+    tags:
+      description: Open Tags Menu
+
+permissions:
+  tags.auto:
+    description: auto Tag
+    default: true
+  tags.parkour:
+    description: parkour Tag
+    default: false
+  tags.neon:
+    description: neon Tag
+    default: true
+  tags.cheater:
+    description: cheater Tag
+    default: true
+  tags.uwu:
+    description: UwU Tag
+    default: true
+  tags.water:
+    description: water Tag
+    default: true
+  tags.og:
+    description: OG Tag
+    default: true
+  tags.hulk:
+    description: hulk Tag
+    default: true
+  tags.rivalmc:
+    description: rivalmc Tag
+    default: true
+  tags.pvp:
+    description: pvp Tag
+    default: true
+  tags.god:
+    description: GOD Tag
+    default: true
